@@ -1,4 +1,4 @@
-/*====  RESET ============================ */
+/*====  EDUDEVELOPER - RESET ============================ */
 * {
     margin: 0;
     padding: 0;
@@ -183,7 +183,7 @@
     width: 100%;
   }
   
-  nav .menu {
+   nav .menu {
     opacity: 0;
     visibility: hidden;
     top: -20rem;
@@ -218,7 +218,7 @@
   
   nav.show ul.grid {
     gap: 4rem;
-  }
+  } 
   
   /* toggle menu */
   .toggle {
